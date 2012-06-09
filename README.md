@@ -1,4 +1,4 @@
-superos..github.com
+superos.github.com
 ===================
 
-Githun Pages
+Github Pages
